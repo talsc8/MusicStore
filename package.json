@@ -1,0 +1,26 @@
+{
+  "name": "music-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talsc8/MusicStore.git"
+  },
+  "author": "Tal Schachter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talsc8/MusicStore/issues"
+  },
+  "homepage": "https://github.com/talsc8/MusicStore#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "latest",
+    "jsonwebtoken": "latest"
+  }
+}
